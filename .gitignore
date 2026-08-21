@@ -1,0 +1,8 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Do not commit full-resolution working/source files by accident
+sources/
+private/
