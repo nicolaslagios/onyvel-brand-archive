@@ -21,7 +21,27 @@
     "https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/"
   ],
   "wayback_snapshots": {
-    "homepage": "https://web.archive.org/web/20260821091355/https://onyvel.com/"
+    "homepage": "https://web.archive.org/web/20260821091355/https://onyvel.com/",
+    "about": "https://web.archive.org/web/20260821091928/https://onyvel.com/about/",
+    "shop": "https://web.archive.org/web/20260821092112/https://onyvel.com/shop/",
+    "company_information": "https://web.archive.org/web/20260821092253/https://onyvel.com/company-information/",
+    "first_product": "https://web.archive.org/web/20260821092421/https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/"
+  },
+  "evidence_files": {
+    "screenshots": [
+      "homepage-desktop.jpg",
+      "homepage-mobile.jpg",
+      "productpage-desktop.jpg",
+      "productpage-mobile.jpg",
+      "shop-desktop.jpg",
+      "about-desktop.jpg"
+    ],
+    "identity_assets": [
+      "onyvel-logo-dark.png",
+      "onyvel-logo-light.png",
+      "onyvel-favicon.png"
+    ],
+    "document": "ONYVEL-Brand-Evidence-2026-08-21.pdf"
   },
   "notes": "Public brand archive and provenance record. No license is granted by publication."
 }
