@@ -29,12 +29,12 @@
   },
   "evidence_files": {
     "screenshots": [
-      "homepage-desktop.jpg",
-      "homepage-mobile.jpg",
-      "productpage-desktop.jpg",
-      "productpage-mobile.jpg",
-      "shop-desktop.jpg",
-      "about-desktop.jpg"
+      "homepage-desktop.png",
+      "homepage-mobile.png",
+      "productpage-desktop.png",
+      "productpage-mobile.png",
+      "shop-desktop.png",
+      "about-desktop.png"
     ],
     "identity_assets": [
       "onyvel-logo-dark.png",
@@ -43,5 +43,17 @@
     ],
     "document": "ONYVEL-Brand-Evidence-2026-08-21.pdf"
   },
-  "notes": "Public brand archive and provenance record. No license is granted by publication."
+  "sha256": {
+    "homepage-desktop.png": "9c62ca42f8cc1afd625976e4f5c9a19aabf18ddfd704660fa13fa1b32a6ecb1c",
+    "homepage-mobile.png": "48f4a8951c41d312462e77a80f41e78cd16df0fef7ad7137167aff448c7968fa",
+    "productpage-desktop.png": "564b9b5d4ce1aa7107df68d06cda0c88169d2419a1494e9fe5255eafb1cf9433",
+    "productpage-mobile.png": "b0ce790124ce5a30640fc0e82967b2d554a38b0ab9c233e95401c86e6b729d97",
+    "shop-desktop.png": "e08abaed15d912b2325981e0c89d185352f6a95bd03b1cceb7d1e83f0e94c557",
+    "about-desktop.png": "6a6c78627b4b044263d48d703bf274958690a25c4d11917fa3812f3312db5732",
+    "onyvel-logo-dark.png": "c65a5daa808ecbd96d65d264535b969fc68777de436030982eb2c12c3c2704a9",
+    "onyvel-logo-light.png": "c08c1863f3a376f0553f31b51fbbb62ea7b211c48396dfd65e5ef4d6286fd254",
+    "onyvel-favicon.png": "f691b9b32ed8bfa614df97ab4111ad7dca43aeb63123aad7589a7014ac20c78b",
+    "ONYVEL-Brand-Evidence-2026-08-21.pdf": "c0a1ed1fb8134d248241e5286cf43ec38919abb6ac19052f028c1bfc00666560"
+  },
+  "notes": "Public brand archive and provenance record. SHA-256 values anchor the exact source files supplied for this snapshot. No license is granted by publication."
 }
