@@ -1,8 +1,27 @@
 {
-  "archive_version": "1.0",
+  "archive_version": "1.1",
   "snapshot_date": "2026-08-21",
   "brand": "ONYVEL",
   "official_site": "https://onyvel.com/",
+  "brand_ownership_page": "https://onyvel.com/brand-ownership/",
+  "ownership": {
+    "public_owner_name": "Nikolaos Lagios",
+    "country": "Greece",
+    "current_operating_company": "Wisegigs Limited",
+    "business_registration_number": "71002156",
+    "owner_relationship_to_operating_company": "Co-owner",
+    "operating_company_changes_brand_ownership": false,
+    "public_declaration_file": "BRAND-OWNERSHIP-DECLARATION.md",
+    "private_declaration_file": "ONYVEL-Private-Brand-Ownership-Declaration-2026-08-21.pdf",
+    "private_declaration_published": false,
+    "private_declaration_sha256": "6bb3f078bb5955a525366acaf60a79976f8bfb54f2ef6a95534a41fdd1a83456"
+  },
+  "official_channels": {
+    "instagram": "https://www.instagram.com/onyvelofficial/",
+    "youtube": "https://www.youtube.com/@Onyvel",
+    "tiktok": "https://www.tiktok.com/@onyvel",
+    "facebook": "https://www.facebook.com/onyvel"
+  },
   "collection": "DROP 001",
   "campaign_phrases": [
     "REALITY WAS OVERRATED.",
@@ -18,14 +37,20 @@
     "https://onyvel.com/about/",
     "https://onyvel.com/shop/",
     "https://onyvel.com/company-information/",
-    "https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/"
+    "https://onyvel.com/brand-ownership/",
+    "https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/",
+    "https://github.com/nicolaslagios/onyvel-brand-archive",
+    "https://github.com/nicolaslagios/onyvel-brand-archive/tree/main/evidence/2026-08-21"
   ],
   "wayback_snapshots": {
     "homepage": "https://web.archive.org/web/20260821091355/https://onyvel.com/",
     "about": "https://web.archive.org/web/20260821091928/https://onyvel.com/about/",
     "shop": "https://web.archive.org/web/20260821092112/https://onyvel.com/shop/",
     "company_information": "https://web.archive.org/web/20260821092253/https://onyvel.com/company-information/",
-    "first_product": "https://web.archive.org/web/20260821092421/https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/"
+    "first_product": "https://web.archive.org/web/20260821092421/https://onyvel.com/product/onyvel-drop-001-reality-was-overrated-oversized-tee/",
+    "brand_ownership": null,
+    "github_repository": null,
+    "github_evidence_folder": null
   },
   "evidence_files": {
     "screenshots": [
@@ -55,5 +80,5 @@
     "onyvel-favicon.png": "f691b9b32ed8bfa614df97ab4111ad7dca43aeb63123aad7589a7014ac20c78b",
     "ONYVEL-Brand-Evidence-2026-08-21.pdf": "c0a1ed1fb8134d248241e5286cf43ec38919abb6ac19052f028c1bfc00666560"
   },
-  "notes": "Public brand archive and provenance record. SHA-256 values anchor the exact source files supplied for this snapshot. No license is granted by publication."
+  "notes": "Public brand archive and provenance record. SHA-256 values anchor the exact source files supplied for this snapshot. The private ownership declaration itself is not public; only its SHA-256 fingerprint is timestamped. No license is granted by publication."
 }
