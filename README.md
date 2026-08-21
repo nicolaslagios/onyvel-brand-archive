@@ -2,11 +2,31 @@
 
 Public timestamped archive for the **ONYVEL** brand.
 
-This repository records public evidence of ONYVEL's brand identity, website presence, campaign language and first commercial product as they existed on **21 August 2026**.
+This repository records public evidence of ONYVEL's brand identity, website presence, campaign language, ownership declaration, official channels and first commercial product as they existed on **21 August 2026**.
 
 ## Official website
 
 - https://onyvel.com/
+
+## Public ownership record
+
+The ONYVEL brand is publicly declared as owned by **Nikolaos Lagios, Greece**.
+
+At the date of this archive, ONYVEL is commercially operated through **Wisegigs Limited**, Business Registration Number **71002156**. The use of Wisegigs Limited as the current operating company does not itself transfer ownership of the ONYVEL brand to that company.
+
+See:
+
+- `BRAND-OWNERSHIP-DECLARATION.md`
+- `PRIVATE-DECLARATION-HASH.md`
+
+The private declaration itself is intentionally not published because it contains additional personal identity-verification information. Only its SHA-256 fingerprint is publicly timestamped.
+
+## Official ONYVEL channels
+
+- Instagram: https://www.instagram.com/onyvelofficial/
+- YouTube: https://www.youtube.com/@Onyvel
+- TikTok: https://www.tiktok.com/@onyvel
+- Facebook: https://www.facebook.com/onyvel
 
 ## Initial public brand elements
 
@@ -26,6 +46,8 @@ Git history and SHA-256 checksums provide additional integrity evidence for arch
 ## Archive structure
 
 - `evidence/2026-08-21/` — initial public evidence snapshot
+- `BRAND-OWNERSHIP-DECLARATION.md` — public ownership/provenance declaration
+- `PRIVATE-DECLARATION-HASH.md` — public fingerprint of the private identity declaration
 - `assets/` — selected public brand assets
 - `documents/` — timestamped brand evidence documents
 - `scripts/` — checksum helpers
