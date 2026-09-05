@@ -2,24 +2,42 @@
 
 Public timestamped archive for the **ONYVEL** brand.
 
-This repository records public evidence of ONYVEL's brand identity, website presence, campaign language, ownership declaration, official channels and first commercial product as they existed on **21 August 2026**.
+This repository records public evidence of ONYVEL's brand identity, website presence, campaign language, ownership declarations, official channels and commercial operating-entity history.
 
-## Official website
+## Official websites
 
-- https://onyvel.com/
+- ONYVEL: https://onyvel.com/
+- Current operating company: https://lagiosdigital.com/
 
 ## Public ownership record
 
-The ONYVEL brand is publicly declared as owned by **Nikolaos Lagios, Greece**.
-
-At the date of this archive, ONYVEL is commercially operated through **Wisegigs Limited**, Business Registration Number **71002156**. The use of Wisegigs Limited as the current operating company does not itself transfer ownership of the ONYVEL brand to that company.
+The ONYVEL brand is publicly declared as owned by **Nikolaos Lagios, Greece**, unless expressly transferred through a separate written assignment.
 
 See:
 
-- `BRAND-OWNERSHIP-DECLARATION.md`
-- `PRIVATE-DECLARATION-HASH.md`
+- [`BRAND-OWNERSHIP-DECLARATION.md`](BRAND-OWNERSHIP-DECLARATION.md)
+- [`PRIVATE-DECLARATION-HASH.md`](PRIVATE-DECLARATION-HASH.md)
 
 The private declaration itself is intentionally not published because it contains additional personal identity-verification information. Only its SHA-256 fingerprint is publicly timestamped.
+
+## Current operating entity
+
+Effective **3 September 2026**, the commercial and invoicing operation of ONYVEL is carried out through:
+
+- **Lagios Digital LLC**
+- registered alternative business name: **Onyvel LLC**
+- New Mexico Entity ID: **0008127496**
+- formation filing number: **3295681**
+
+See:
+
+- [`OPERATING-ENTITY-UPDATE-2026-09-03.md`](OPERATING-ENTITY-UPDATE-2026-09-03.md)
+
+## Historical continuity
+
+The initial evidence snapshot dated **21 August 2026** records **Wisegigs Limited**, Business Registration Number **71002156**, as the temporary operating entity used at that date. That archived snapshot remains unchanged as a historical record.
+
+Later updates supplement the original snapshot rather than rewriting it. This preserves a transparent chronology of public brand use and operating-company changes.
 
 ## Official ONYVEL channels
 
@@ -39,14 +57,15 @@ The private declaration itself is intentionally not published because it contain
 
 ## Purpose
 
-The purpose of this repository is archival and evidentiary. It provides a public, version-controlled record showing the existence and public use of the ONYVEL brand and associated creative material at a specific point in time.
+The purpose of this repository is archival and evidentiary. It provides a public, version-controlled record showing the existence and public use of the ONYVEL brand and associated creative material at specific points in time.
 
 Git history and SHA-256 checksums provide additional integrity evidence for archived documents and assets.
 
 ## Archive structure
 
 - `evidence/2026-08-21/` — initial public evidence snapshot
-- `BRAND-OWNERSHIP-DECLARATION.md` — public ownership/provenance declaration
+- `BRAND-OWNERSHIP-DECLARATION.md` — current public ownership/provenance declaration
+- `OPERATING-ENTITY-UPDATE-2026-09-03.md` — current operating-company update
 - `PRIVATE-DECLARATION-HASH.md` — public fingerprint of the private identity declaration
 - `assets/` — selected public brand assets
 - `documents/` — timestamped brand evidence documents
@@ -55,7 +74,11 @@ Git history and SHA-256 checksums provide additional integrity evidence for arch
 
 ## External snapshots
 
-The public URLs listed in `evidence/2026-08-21/archive-links.md` are intended to also be preserved through independent web-archiving services such as the Internet Archive Wayback Machine.
+The public URLs listed in `evidence/2026-08-21/archive-links.md` are preserved through independent web-archiving services such as the Internet Archive Wayback Machine.
+
+## Tax identification
+
+No Employer Identification Number is published in this repository. An EIN application is not an EIN assignment notice, and no EIN should be inferred or guessed from formation records.
 
 ## Rights
 
